@@ -1,6 +1,6 @@
 # 大数据工程师
 
-我们相信存储与计算分离的架构是大数据平台的趋势，具体原因可以 [参考我们的一篇博客](https://juicefs.com/blog/cn/why-disaggregated-compute-and-storage-is-future/)，但现有的开源框架支持这种架构还有一段距离，这个岗位就是要搞定它。
+我们相信存储与计算分离的架构是大数据平台的趋势，具体原因可以 [参考我们的一篇博客](https://juicefs.com/blog/cn/posts/why-disaggregated-compute-and-storage-is-future/)，但现有的开源框架支持这种架构还有一段距离，这个岗位就是要搞定它。
 
 ## 目标与职责
 
