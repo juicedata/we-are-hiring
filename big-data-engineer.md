@@ -33,8 +33,6 @@
 
 全职工程师 20K~40K/月，和早期工程师期权
 
-接受实习生申请，每周能工作三天以上，实习生 220/天
-
 ## 简历投递
 
 请发送你的简历到 [team@juicedata.io](mailto:team@juicedata.io)
