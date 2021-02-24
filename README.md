@@ -1,8 +1,9 @@
 # 招聘岗位
 
+* [系统工程师](system-engineer.md)
 * [全栈工程师（偏服务器端）](full-stack-engineer.md)
 * [大数据工程师](big-data-engineer.md)
-* [销售高级总监](sales-senior-director.md)
+* [解决方案架构师](solution-architecture.md)
 * [销售经理](sales-manager.md)
 
 # 公司与产品介绍
