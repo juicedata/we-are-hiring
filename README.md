@@ -6,6 +6,7 @@
 * [市场传播总监](business-development-director.md)
 * [销售经理](sales-manager.md)
 * [解决方案架构师](solutions-architect.md)
+* [开发者支持（Developer Advocate）](developer-advocate.md)
 
 # 公司与产品介绍
 
