@@ -1,6 +1,7 @@
 # 招聘岗位
 
 * [系统工程师](system-engineer.md)
+* [Windows 客户端开发工程师](windows-client-engineer.md)
 * [大数据工程师](big-data-engineer.md)
 * [全栈工程师（偏服务器端）](full-stack-engineer.md)
 * [市场传播总监](business-development-director.md)
@@ -12,9 +13,11 @@
 
 Juicedata 成立于 2017 年，在创立之初就获得华创（China Growth Capital）资本和清源创投（Tsingyuan Ventures）的联合投资。带着让每家企业都轻松拥有大数据能力的愿景，开发了第一个面向大数据存储的产品 JuiceFS，这是一个全新的云原生分布式共享文件系统，并以 SaaS 方式向用户提供服务。已经支持全球主流公有云服务商，客户只需 20 分钟就能部署好一个 10 PB 弹性扩展的文件存储系统。
 
-JuiceFS 在 2017 年 10 月正式商用，已有近 30 家互联网、人工智能领域的科技企业成为付费客户，托管 PB 级数据在 JuiceFS 上，并在广电、证券、航天等行业都积累了成功交付经验。帮助客户在存储方面节省了大量的人力财力，更聚焦于发展自身核心业务。
+JuiceFS 在 2017 年 10 月正式商用，已有数十家互联网、人工智能领域的科技企业成为付费客户，托管 PB 级数据在 JuiceFS 上，并在广电、证券、航天、运营商等行业都积累了成功交付经验。帮助客户在存储方面节省了大量的人力财力，更聚焦于发展自身核心业务。
 
-更多关于 JuiceFS 的架构、特性、适用场景等请[参阅文档中心中的介绍](https://juicefs.com/docs/zh/intro.html)。
+2021 年 1 月，JuiceFS 在 [GitHub 正式开源](https://github.com/juicedata/juicefs)，经过几个月的发展已经累计 3300 星，获得全球开发者关注，被 Hacker News、InfoQ 等首页报道，数次登上 Github Trending Go 语言分类榜。与多家公有云厂商，小米、理想汽车、Shopee、Bigo、叮咚买菜等多家知名互联网企业和 Apache Kylin、Milvus 等开源社区展开合作。
+
+了解更多 JuiceFS 请看 [Github 项目页面](https://github.com/juicedata/juicefs)。
 
 # 创始团队介绍
 
